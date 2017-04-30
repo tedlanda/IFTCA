@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Troll.unity
+- path: Assets/IFTCA.unity
   isLoaded: 1
   isActive: 1
